@@ -765,6 +765,7 @@ dependencies = [
 [[package]]
 name = "bevy_psx"
 version = "0.1.0"
+source = "git+https://github.com/tajo48/bevy_psx.git#f414c3965e8163aa609f457cd6e73b8872190927"
 dependencies = [
  "bevy",
 ]
